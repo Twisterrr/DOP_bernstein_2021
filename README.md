@@ -20,7 +20,7 @@ In other terms, it is the process of organizing the different components of a sy
 
 You will need at least 1 Kubernetes master and 2 nodes (workers). You can run it locally, but it is highly recommended to use a “Kubernetes as a Service” platform.
 
-Examples of such platforms include (but are not limited to) Amazon Elastic Kubernetes Service,Google Ku-bernetes Engine, Digital Ocean...
+Examples of such platforms include (but are not limited to) Amazon Elastic Kubernetes Service, Google Cloud, Ku-bernetes Engine, Digital Ocean...
 
 Installing a full Kubernetes cluster locally is complex. Minikube is also not built for multi-node clusters (which you needfor your project).
 
